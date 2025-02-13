@@ -1,5 +1,5 @@
 # belajar-kolaborasi
-progress 1
+progress 1 = finish
 --
 progress 2
 --
